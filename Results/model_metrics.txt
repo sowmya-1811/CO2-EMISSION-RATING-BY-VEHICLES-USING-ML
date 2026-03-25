@@ -1,0 +1,7 @@
+Classifier Model Performance Comparison
+
+            Model  Accuracy  Precision  Recall  F1 Score
+          XGBoost     0.996      0.996   0.996     0.996
+         AdaBoost     0.958      0.958   0.958     0.958
+    Random Forest     0.997      0.997   0.997     0.997
+Voting Classifier     0.997      0.997   0.997     0.997
